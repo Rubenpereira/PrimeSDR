@@ -1,0 +1,5 @@
+{
+  "name": "PrimeSDR v1.0",
+  "description": "Interface web para Software Defined Radio (SDR) focada em dongles RTL-SDR v3, desenvolvida por PU1XTB.",
+  "requestFramePermissions": []
+}
